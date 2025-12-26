@@ -1,0 +1,9 @@
+{
+  "name": "Carpina Observatório",
+  "description": "App de coleta de dados imobiliários para o Observatório de Valores de Carpina.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
